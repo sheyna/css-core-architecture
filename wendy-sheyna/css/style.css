@@ -56,12 +56,7 @@ a:hover {
   font-size: 1em;
   text-align: center;
 }
-.preview__Figure {
-  position: relative;
-  width: 220px;
-  height: 200px;
-}
-.preview__figure__image {
+.preview__figureimage {
   width: 220px;
   margin: 0% auto 10% auto;
 }
