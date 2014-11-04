@@ -18,7 +18,7 @@ function initialize(){
   marker.setMap(map);
 
   var infowindow = new google.maps.InfoWindow({
-  content:"South Lake Union Farmer's Market"
+  content:"SLU Farmer's Market"
   });
 
   google.maps.event.addListener(marker, 'click', function(){
