@@ -55,6 +55,7 @@ nav li {
   margin: 3%;
   width: 220px;
   font-size: 1em;
+  text-align: center;
 }
 
 .preview__Figure {
@@ -63,8 +64,11 @@ nav li {
   height: 200px;
 }
 
-.preview__Figure img {
-  position: relative;
-  margin: 0% auto 10% auto;
+.preview__figure__image {
   width: 220px;
+  margin: 0% auto 10% auto;
+}
+
+footer {
+  text-align: center;
 }
