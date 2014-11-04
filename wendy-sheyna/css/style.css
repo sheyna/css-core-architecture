@@ -6,16 +6,14 @@ body {
 }
 .buildingBlock {
   display: block;
-  position: relative;
   margin: 0;
   padding: 2% 15% 2% 15%;
 }
-.buildingBlock-color {
+.buildingBlock--color {
   background-color: rgb(209, 213, 192);
 }
 .indexFigureHero img {
   display: block;
-  position: relative;
   margin: 0 auto;
   max-width: 100%;
 }
