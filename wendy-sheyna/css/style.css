@@ -2,41 +2,62 @@ body {
   font-family: 'Bubbler One', sans-serif;
   background-color: #fff;
   color: ;
+  font-size:100%;
 }
 
 .buildingBlock {
   display: block;
   position: relative;
   margin: 0;
-  padding: 5% 20% 5% 20%;
+  padding: 2% 20%;
 }
-
+.color1{
+  color:rgb(168,172,138);
+}
+.color2{
+  color:rgb(84,89,70);
+}
 .indexFigureHero img {
   display: block;
   position: relative;
   margin: 0 auto;
 }
 
+nav li{
+  font-size:2em;
+  list-style-type: none;
+  display:inline-block;
+  margin: 0% 3%;
+  text-align: center;
+}
+
+nav ul{
+margin: 1% auto;
+  text-align: center;
+
+}
 h1 {
   text-align: center;
+  font-size:3.5em;
+  margin: 3% auto;
 }
 
-h3 {
+h2, h3 {
   text-align: center;
+  font-size:1.6em;
+  margin-bottom: 0.3em;
 }
 
-h3 {
-  text-align: center;
-}
+.img{
 
+}
 .preview {
   display: inline-block;
   position: relative;
   margin: auto;
   width: 500px;
 }
-
-.preview__Figure {
-  width: 500px;
-  height: 280px;
+.preview__figure {
+  width: 250px;
+  height: 200px;
 }
