@@ -11,8 +11,10 @@ body {
   padding: 5% 20% 5% 20%;
 }
 
-.indexFigureHero {
-  background-image: url('../images/house.jpg');
+.indexFigureHero img {
+  display: block;
+  position: relative;
+  margin: 0 auto;
 }
 
 h1 {
@@ -25,4 +27,16 @@ h3 {
 
 h3 {
   text-align: center;
+}
+
+.preview {
+  display: inline-block;
+  position: relative;
+  margin: auto;
+  width: 500px;
+}
+
+.preview__Figure {
+  width: 500px;
+  height: 280px;
 }
