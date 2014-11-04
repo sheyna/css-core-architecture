@@ -1,0 +1,28 @@
+body {
+  font-family: 'Bubbler One', sans-serif;
+  background-color: #fff;
+  color: ;
+}
+
+.buildingBlock {
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 5% 20% 5% 20%;
+}
+
+.indexFigureHero {
+  background-image: url('../images/house.jpg');
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
