@@ -4,7 +4,10 @@ body {
   color: rgb(84, 89, 70);
   font-size: 100%;
 }
-
+#googleMap{
+  height:176px;
+  width:220px;
+}
 .buildingBlock {
   display: block;
   margin: 0;
